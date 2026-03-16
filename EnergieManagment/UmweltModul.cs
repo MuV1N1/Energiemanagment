@@ -1,6 +1,6 @@
 namespace EnergieManagment;
 
-public static class Umwelt_Modul
+public static class UmweltModul
 {
     public static double Windgeschwindigkeit;
 
