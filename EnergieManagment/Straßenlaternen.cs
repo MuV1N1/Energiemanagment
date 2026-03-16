@@ -22,7 +22,7 @@ public class Straßenlaternen
     {
         get
         {
-            if (status == true)
+            if (status)
             {
                 return "An";
                 
